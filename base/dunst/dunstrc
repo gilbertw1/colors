@@ -1,0 +1,15 @@
+[frame]
+    width = 4
+    color = "#{{dunst.border}}"
+
+[urgency_low]
+    background = "#{{dunst.urgency.low.background}}"
+    foreground = "#{{dunst.urgency.low.foreground}}"
+
+[urgency_normal]
+    background = "#{{dunst.urgency.normal.background}}"
+    foreground = "#{{dunst.urgency.normal.background}}"
+
+[urgency_critical]
+    background = "#{{dunst.urgency.critical.foreground}}"
+    foreground = "#{{dunst.urgency.critical.foreground}}"

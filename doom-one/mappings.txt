@@ -1,0 +1,38 @@
+# Basic Colors
+primary.background = "282c34"
+primary.foreground = "bbc2cf"
+
+normal.black = "1E2127"
+normal.red = "CC626A"
+normal.green = "98C379"
+normal.yellow = "da8548"
+normal.blue = "3E86B8"
+normal.magenta = "a9a1e1"
+normal.cyan = "56B6C2"
+normal.white = "ABB2BF"
+
+bright.black = "5C6370"
+bright.red = "E06C75"
+bright.green = "A7D685"
+bright.yellow = "ECBE7B"
+bright.blue = "51afef"
+bright.magenta = "C678DD"
+bright.cyan = "56B6C2"
+bright.white = "ffffff"
+
+# Emacs
+emacs.theme = "doom-one"
+
+# Gtk Theme
+gtk.theme = "Arc-Dark"
+gtk.icons = "Numix"
+
+# Rofi Theme
+rofi.theme = "/home/gilbertw1/.config/rofi/doom.rasi"
+
+# NVIM
+nvim.background = "dark"
+nvim.colorscheme = "onehalfdark"
+
+# Wallpaper
+desktop.wallpaper = "~/walls/minimal-geo-sqaures-doom.png"

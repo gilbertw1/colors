@@ -1,0 +1,28 @@
+# Basic Colors
+primary.background = "f7f3ee"
+primary.foreground = "605a52"
+
+normal.black = "dcd3c6"
+normal.red = "955f5f"
+normal.green = "80885c"
+normal.yellow = "f08c00"
+normal.blue = "5c5361"
+normal.magenta = "614c61"
+normal.cyan = "455852"
+normal.white = "ffffff"
+
+bright.black = "605a52"
+bright.red = "f00000"
+bright.green = "84bc00"
+bright.yellow = "957f5f"
+bright.blue = "75a3ff"
+bright.magenta = "ce5bff"
+bright.cyan = "d2ebe3"
+bright.white = "f7f3ee"
+
+emacs.theme = "doom-flatwhite-modified"
+gtk.theme = "Vertex-Light"
+gtk.icons = "Numix Light"
+
+nvim.background = "light"
+nvim.colorscheme = "flatwhite"

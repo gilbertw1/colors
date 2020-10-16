@@ -1,0 +1,46 @@
+* {
+    foreground:  #{{primary.foreground}};
+    backlight:   #{{primary.background}};
+    background:  #{{primary.background}};
+    dark: #{{normal.black}};
+    // Black
+    black:        #{{normal.black}};
+    lightblack:   #{{bright.black}};
+    //
+    // Red
+    red:          #{{normal.red}};
+    lightred:     #{{bright.red}};
+    //
+    // Green
+    green:        #{{normal.green}};
+    lightgreen:   #{{bright.green}};
+    //
+    // Yellow
+    yellow:       #{{normal.yellow}};
+    lightyellow:  #{{bright.yellow}};
+    //
+    // Blue
+    blue:         #{{normal.blue}};
+    lightblue:    #{{bright.blue}};
+    //
+    // Magenta
+    magenta:      #{{normal.magenta}};
+    lightmagenta: #{{bright.magenta}};
+    //
+    // Cyan
+    cyan:         #{{normal.cyan}};
+    lightcyan:    #{{bright.cyan}};
+    //
+    // White (Gray)
+    white:        #{{normal.white}};
+    lightwhite:   #{{bright.white}};
+    //
+    // Bold, Italic, Underline
+    selected-fg:        #{{rofi.selected.fg}};
+    selected-bg:        #{{rofi.selected.bg}};
+    highlight:     bold #{{rofi.selected.match.fg}};
+    prompt-fg:          #{{rofi.prompt.fg}};
+
+    background-color: @background;
+    font: "Iosevka 18";
+}

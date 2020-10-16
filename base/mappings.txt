@@ -1,0 +1,106 @@
+# Basic Colors
+primary.background = "282c34"
+primary.foreground = "bbc2cf"
+
+normal.black = "1E2127"
+normal.red = "CC626A"
+normal.green = "98C379"
+normal.yellow = "da8548"
+normal.blue = "3E86B8"
+normal.magenta = "a9a1e1"
+normal.cyan = "56B6C2"
+normal.white = "ABB2BF"
+
+bright.black = "5C6370"
+bright.red = "E06C75"
+bright.green = "A7D685'"
+bright.yellow = "ECBE7B"
+bright.blue = "51afef"
+bright.magenta = "C678DD"
+bright.cyan = "56B6C2"
+bright.white = "ffffff"
+
+
+# Alacritty
+alacritty.cursor.text = primary.foreground
+alacritty.cursor.cursor = bright.black
+
+# Dunst
+dunst.border = normal.green
+dunst.urgency.low.background = primary.background
+dunst.urgency.low.foreground = primary.foreground
+dunst.urgency.normal.background = primary.background
+dunst.urgency.normal.background = primary.background
+dunst.urgency.critical.foreground = primary.foreground
+dunst.urgency.critical.foreground = primary.foreground
+
+# Emacs
+emacs.theme = "doom-one"
+
+# Gtk Theme
+gtk.theme = "Arc-Dark"
+gtk.icons = "Numix"
+
+# Rofi
+rofi.prompt.fg = normal.blue
+rofi.selected.fg = primary.background
+rofi.selected.bg = normal.blue
+rofi.selected.match.fg = normal.yellow
+
+# Tint2
+tint2.background = primary.background
+
+# NVIM
+nvim.background = "dark"
+nvim.colorscheme = "onehalfdark"
+
+# XMonad
+xmonad.current.workspace = bright.blue
+xmonad.current.workspace.icon = bright.yellow
+xmonad.current.title = bright.magenta
+xmonad.border = primary.background
+xmonad.border.focused = normal.green
+
+# Xmobar
+xmobar.background = primary.background
+xmobar.foreground = primary.foreground
+xmobar.cpu.icon = normal.magenta
+xmobar.cpu.high = bright.red
+xmobar.mem.icon = bright.blue
+xmobar.mem.high = bright.red
+xmobar.net.down.icon = normal.cyan
+xmobar.net.up.icon = bright.magenta
+xmobar.temp.icon = normal.blue
+xmobar.temp.high = bright.red
+xmobar.bat.icon = bright.cyan
+xmobar.bat.low = bright.red
+xmobar.bat.high = normal.green
+xmobar.date = bright.yellow
+
+# TMUX
+tmux.status.bg = normal.black
+tmux.status.fg = primary.foreground
+tmux.status.left.bg = bright.blue
+tmux.status.left.fg = tmux.status.bg
+tmux.status.cmd = bright.blue
+tmux.status.right.inner.bg = bright.black
+tmux.status.right.inner.fg = tmux.status.fg
+tmux.status.right.bg = bright.green
+tmux.status.right.fg = tmux.status.bg
+tmux.status.window.selected.bg = bright.yellow
+tmux.status.window.selected.fg = tmux.status.bg
+tmux.pane.active.border = normal.green
+tmux.pane.border = primary.foreground
+
+# Wallpaper
+desktop.wallpaper = "~/walls/minimal-geo-sqaures-doom.png"
+
+# Lock
+lock.background = primary.background
+lock.ring.press = bright.green
+lock.ring.back = bright.red
+lock.hostname = normal.yellow
+lock.time = normal.blue
+lock.ring.active = normal.yellow
+lock.ring.wrong = normal.yellow
+lock.ring.text = primary.background

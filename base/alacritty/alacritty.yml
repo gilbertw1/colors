@@ -1,0 +1,26 @@
+# Colors (gruvbox)
+colors:
+  primary:
+    background: '0x{{primary.background}}'
+    foreground: '0x{{primary.foreground}}'
+  cursor:
+    text: '0x{{alacritty.cursor.text}}'
+    cursor: '0x{{alacritty.cursor.cursor}}'
+  normal:
+    black:   '0x{{normal.black}}'
+    red:     '0x{{normal.red}}'
+    green:   '0x{{normal.green}}'
+    yellow:  '0x{{normal.yellow}}'
+    blue:    '0x{{normal.blue}}'
+    magenta: '0x{{normal.magenta}}'
+    cyan:    '0x{{normal.cyan}}'
+    white:   '0x{{normal.white}}'
+  bright:
+    black:   '0x{{bright.black}}'
+    red:     '0x{{bright.red}}'
+    green:   '0x{{bright.green}}'
+    yellow:  '0x{{bright.yellow}}'
+    blue:    '0x{{bright.blue}}'
+    magenta: '0x{{bright.magenta}}'
+    cyan:    '0x{{bright.cyan}}'
+    white:   '0x{{bright.white}}'

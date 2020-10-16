@@ -1,0 +1,26 @@
+# Basic Colors
+primary.background = "1D252C"
+primary.foreground = "A0B3C5"
+
+normal.black = "333f4a"
+normal.red = "d95468"
+normal.green = "8bd49c"
+normal.yellow = "ebbf83"
+normal.blue = "539afc"
+normal.magenta = "b62d65"
+normal.cyan = "70e1e8"
+normal.white = "718ca1"
+
+bright.black = "41505e"
+bright.red = "d95468"
+bright.green = "8bd49c"
+bright.yellow = "f7dab3"
+bright.blue = "5ec4ff"
+bright.magenta = "b62d65"
+bright.cyan = "70e1e8"
+bright.white = "b7c5d3"
+
+emacs.theme = "doom-city-lights"
+gtk.theme = "Adapta-Nokto"
+nvim.colorscheme = "citylights"
+desktop.wallpaper = "~/walls/animated-ruined-city.jpe"

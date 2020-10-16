@@ -1,0 +1,5 @@
+currentWorkspaceColor = "#{{xmonad.current.workspace}}"
+currentWorkspaceIconColor = "#{{xmonad.current.workspace.icon}}"
+currentTitleColor = "#{{xmonad.current.title}}"
+myNormalBorderColor  = "#{{xmonad.border}}"
+myFocusedBorderColor = "#{{xmonad.border.focused}}"

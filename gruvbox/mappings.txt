@@ -1,0 +1,41 @@
+# Basic Colors
+primary.background = "282828"
+primary.foreground = "ebdbb2"
+
+normal.black = "282828"
+normal.red = "cc241d"
+normal.green = "98971a"
+normal.yellow = "d79921"
+normal.blue = "458588"
+normal.magenta = "b16286"
+normal.cyan = "689d6a"
+normal.white = "a89984"
+
+bright.black = "928374"
+bright.red = "fb4934"
+bright.green = "b8bb26"
+bright.yellow = "d79921"
+bright.blue = "458588"
+bright.magenta = "b16286"
+bright.cyan = "689d6a"
+bright.white = "a89984"
+
+# Emacs
+emacs.theme = "doom-gruvbox"
+
+# Gtk Theme
+gtk.theme = "Adwaita-dark"
+
+# Rofi Theme
+rofi.theme = "/home/gilbertw1/.config/rofi/gruvbox.rasi"
+
+# NVIM
+nvim.background = "dark"
+nvim.colorscheme = "gruvbox"
+
+# TMUX
+tmux.status.bg = "303030"
+tmux.status.right.inner.fg = normal.black
+
+# Wallpaper
+desktop.wallpaper = "~/walls/spaceman-minimal.png"

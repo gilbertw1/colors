@@ -1,0 +1,35 @@
+# Basic Colors
+primary.background = "282A36"
+primary.foreground = "F8F8F2"
+
+normal.black = "000000"
+normal.red = "FF5555"
+normal.green = "50FA7B"
+normal.yellow = "F1FA8C"
+normal.blue = "BD93F9"
+normal.magenta = "FF79C6"
+normal.cyan = "8BE9FD"
+normal.white = "BFBFBF"
+
+bright.black = "4D4D4D"
+bright.red = "FF6E67"
+bright.green = "5AF78E"
+bright.yellow = "F4F99D"
+bright.blue = "CAA9FA"
+bright.magenta = "FF92D0"
+bright.cyan = "9AEDFE"
+bright.white = "E6E6E6"
+
+# Emacs
+emacs.theme = "doom-dracula"
+
+# Gtk Theme
+gtk.theme = "Arc-Dark"
+gtk.icons = "Numix"
+
+# NVIM
+nvim.background = "dark"
+nvim.colorscheme = "dracula"
+
+# Wallpaper
+desktop.wallpaper = "~/walls/hyper-light-drifter-dracula.png"

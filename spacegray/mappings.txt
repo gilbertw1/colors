@@ -1,0 +1,23 @@
+# Basic Colors
+primary.background = "111314"
+primary.foreground = "B7BBB7"
+
+normal.black = "2C2F33"
+normal.red = "B04C50"
+normal.green = "919652"
+normal.yellow = "E2995C"
+normal.blue = "66899D"
+normal.magenta = "8D6494"
+normal.cyan = "527C77"
+normal.white = "606360"
+
+bright.black = "4B5056"
+bright.red = "B04C50"
+bright.green = "94985B"
+bright.yellow = "E2995C"
+bright.blue = "66899D"
+bright.magenta = "8D6494"
+bright.cyan = "527C77"
+bright.white = "DDE3DC"
+
+emacs.theme = "doom.spacegrey"
