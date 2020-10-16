@@ -13,7 +13,7 @@ normal.white = "ABB2BF"
 
 bright.black = "5C6370"
 bright.red = "E06C75"
-bright.green = "A7D685'"
+bright.green = "A7D685"
 bright.yellow = "ECBE7B"
 bright.blue = "51afef"
 bright.magenta = "C678DD"
@@ -27,12 +27,12 @@ alacritty.cursor.cursor = bright.black
 
 # Dunst
 dunst.border = normal.green
-dunst.urgency.low.background = primary.background
-dunst.urgency.low.foreground = primary.foreground
-dunst.urgency.normal.background = primary.background
-dunst.urgency.normal.background = primary.background
-dunst.urgency.critical.foreground = primary.foreground
-dunst.urgency.critical.foreground = primary.foreground
+dunst.urgency.low.bg = primary.background
+dunst.urgency.low.fg = primary.foreground
+dunst.urgency.normal.fg = primary.background
+dunst.urgency.normal.fg = primary.foreground
+dunst.urgency.critical.bg = primary.foreground
+dunst.urgency.critical.fg = primary.foreground
 
 # Emacs
 emacs.theme = "doom-one"

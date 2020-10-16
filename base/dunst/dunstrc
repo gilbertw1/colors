@@ -3,13 +3,13 @@
     color = "#{{dunst.border}}"
 
 [urgency_low]
-    background = "#{{dunst.urgency.low.background}}"
-    foreground = "#{{dunst.urgency.low.foreground}}"
+    background = "#{{dunst.urgency.low.bg}}"
+    foreground = "#{{dunst.urgency.low.fg}}"
 
 [urgency_normal]
-    background = "#{{dunst.urgency.normal.background}}"
-    foreground = "#{{dunst.urgency.normal.background}}"
+    background = "#{{dunst.urgency.normal.bg}}"
+    foreground = "#{{dunst.urgency.normal.fg}}"
 
 [urgency_critical]
-    background = "#{{dunst.urgency.critical.foreground}}"
-    foreground = "#{{dunst.urgency.critical.foreground}}"
+    background = "#{{dunst.urgency.critical.bg}}"
+    foreground = "#{{dunst.urgency.critical.fg}}"
