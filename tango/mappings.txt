@@ -1,0 +1,44 @@
+# Basic Colors
+primary.background = "EEEEEC"
+primary.foreground = "2E3437"
+
+normal.black = "2E3437"
+normal.red = "CC0000"
+normal.green = "4E9A06"
+normal.yellow = "f57900"
+normal.blue = "3465A4"
+normal.magenta = "75507B"
+normal.cyan = "06989A"
+normal.white = "D3D7CF"
+
+bright.black = "555753"
+bright.red = "EF2929"
+bright.green = "8AE234"
+bright.yellow = "fcaf3e"
+bright.blue = "729FCF"
+bright.magenta = "AD7FA8"
+bright.cyan = "34E2E2"
+bright.white = "ebebea"
+
+emacs.theme = "tango"
+gtk.theme = "Vertex-Light"
+gtk.icons = "Numix Light"
+
+nvim.background = "light"
+nvim.colorscheme = "flatwhite"
+
+
+# TMUX
+tmux.status.bg = normal.white
+tmux.status.fg = primary.foreground
+tmux.status.left.bg = bright.blue
+tmux.status.left.fg = tmux.status.fg
+tmux.status.cmd = bright.blue
+tmux.status.right.inner.bg = bright.white
+tmux.status.right.inner.fg = tmux.status.fg
+tmux.status.right.bg = bright.green
+tmux.status.right.fg = tmux.status.fg
+tmux.status.window.selected.bg = bright.yellow
+tmux.status.window.selected.fg = tmux.status.fg
+tmux.pane.active.border = normal.green
+tmux.pane.border = primary.foreground
